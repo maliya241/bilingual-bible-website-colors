@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<title>Bilingual Bible Website Color Options</title>
+<style type="text/css">
+  #mainContent {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.75em;
+    font-weight: normal;
+    background-color: white;
+  }
+
+  #mainContent:child {
+    position: relative;
+    float: left;
+  }
+  
+  h2, h3 {
+    clear: both;
+  }
+  
+  #gallery {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  #gallery li {
+    float: left;
+    width: 45%;
+    margin: 2.5%;
+    text-align: left;
+  }
+  
+  #gallery li p {
+    margin-top:-5px;
+    margin-left: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  @media screen and (min-width: 480px) {
+    #gallery li {
+      width: 20%;
+    }
+  
+    #gallery li:nth-child(4n+1) {
+      clear: left;
+    }
+  }
+</style>
+</head>
+
+<body>
+<div id="mainContent">
+  <h1>Bilingual Bible Website Color Options</h1>
+  <section id="gallery">
+    <h2>Colors</h2>
+    <ul>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#F8E917;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#F8E917</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#4EBED3;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#4EBED3</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#EF6C26;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#EF6C26</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#B71E1A;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#B71E1A</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E14F83;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E14F83</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#F68E1C;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#F68E1C</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#86E6EF;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#86E6EF</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#0D4F90;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#0D4F90</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#89BDDB;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#89BDDB</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#A0C23D;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#A0C23D</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#443884;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#443884</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#EE9B35;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#EE9B35</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#166BC1;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#166BC1</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#AFED5A;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#AFED5A</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#705EAA;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#705EAA</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E42329;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E42329</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#08AFEA;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#08AFEA</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#670C75;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#670C75</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#1A43B0;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#1A43B0</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#FCF20D;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#FCF20D</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#FCAA19;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#FCAA19</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E739A5;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E739A5</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#8BDA43;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#8BDA43</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#358C28;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#358C28</p>
+      </li>
+    </ul>
+    <h2>Schemes</h2>
+    <ul>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#08AFEA;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#08AFEA</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#FCF20D;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#FCF20D</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E739A5;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E739A5</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#358C28;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#358C28</p>
+      </li>
+    </ul>
+    <hr>
+    <ul>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#86E6EF;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#86E6EF</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#A0C23D;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#A0C23D</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#705EAA;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#705EAA</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#F68E1C;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#F68E1C</p>
+      </li>
+    </ul>
+    <hr>
+    <ul>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E42329;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E42329</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#8BDA43;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#8BDA43</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#166BC1;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#166BC1</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E14F83;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E14F83</p>
+      </li>
+    </ul>
+    <hr>
+    <ul>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#670C75;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#670C75</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#E739A5;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#E739A5</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#1A43B0;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#1A43B0</p>
+      </li>
+      <li>
+        <svg width="180" height="180">
+          <rect x="5" y="20" rx="20" ry="20" width="150" height="150" style="fill:#FCF20D;stroke:black;stroke-width:5;" />
+        </svg>
+        <p>#FCF20D</p>
+      </li>
+    </ul>
+  </section>
+
+</div>
+</body>
+</html>
